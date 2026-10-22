@@ -1,0 +1,27 @@
+All dimensions are in inches.  The cabinets are 82" high, which includes 5.5"
+of bottom molding and 1.5" top molding.  The top doors for each cabinet are
+44.5" high.
+
+The with of each cabinet is slightly different (yay), and the lower portion of
+each cabinet differs too.  From left to right:
+
+- cab A: 25" wide, double doors on the bottom
+- cab B: 24" wide, drawers on the bottom, heights from top to bottom: 4.5",
+  4.5", 8", 13"
+- cab C: 23" wide, drawers on the bottom, heights from top to bottom: 9", 8",
+  13"
+- cab D: 24.5" wide, double doors on bottom
+
+25
+24
+23
+24.5
+
+82 high
+
+5.5" bottom bit
+
+1.5" top molding
+44.5" door height
+
+9/8/13
